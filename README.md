@@ -1,1 +1,1 @@
-# cnn_melanoma_classification_from_scratch
+# Training a CNN From Scratch for Melanoma Detection Using Keras
