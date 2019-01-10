@@ -4,4 +4,8 @@ Before running the code, make sure that you structure the data as follows (the n
 
 ![alt text](https://github.com/abderhasan/cnn_melanoma_classification_from_scratch_keras/blob/master/directory-structure.png)
 
-You can download the data from, <a href="https://drive.google.com/drive/folders/126UgFt_xqnHpeV1Pr_qLDQLwzBbi4rrY?usp=sharing">here</a>. 
+You can download the data from, <a href="https://drive.google.com/drive/folders/126UgFt_xqnHpeV1Pr_qLDQLwzBbi4rrY?usp=sharing">here</a>.
+
+To run the code:
+
+`$ python cnn_from_scratch.py`
