@@ -53,7 +53,6 @@ model.add(layers.Dense(1,activation='sigmoid'))
 model.compile(loss='binary_crossentropy',optimizer='adam',metrics=['acc'])
 
 # preprocess the data
-
 train_data = ImageDataGenerator()
 validation_data = ImageDataGenerator()
 
