@@ -97,6 +97,7 @@ plt.savefig('loss.png')
 
 plt.close()
 
+# test the model
 for root, dirs, files in os.walk(test_directory):
 	for file in files:
 		img = cv2.imread(root + '/' + file)
